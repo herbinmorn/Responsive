@@ -266,8 +266,14 @@ body {
 
   @media only screen and (max-width: 980px) {
 
-  .main-section {
-    width: 70%;
+    .container {
+      
+      max-width: 700px;
+      /*width: 100%;
+      margin: 0 auto;
+      clear: both;*/
+    }
+    
     
     /*float: left;
   
